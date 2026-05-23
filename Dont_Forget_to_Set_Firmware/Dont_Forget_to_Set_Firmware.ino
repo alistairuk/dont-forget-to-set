@@ -32,7 +32,7 @@ byte mac[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
 
 // Address to call when trackers are absent 
 #define HTTP_HOST "www.virtualsmarthome.xyz"
-#define HTTP_URN "/url_routine_trigger/activate.php?trigger=f4d8dc11-e745-428b-8868-d7dc6f234cc0&token=30a03f63-8a49-4e9f-9e95-956302f43d0f"
+#define HTTP_URN "/url_routine_trigger/activate.php?trigger=00000000-0000-0000-0000-000000000000&token=00000000-0000-0000-0000-000000000000"
 
 
 // Globals and Constants
